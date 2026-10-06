@@ -16,10 +16,7 @@ Modelo que estima, al momento de la solicitud, la probabilidad de que un cliente
 
 ```bash
 pip install pandas numpy scikit-learn
-python modelo_pd.py
 ```
-
-Las rutas de los CSV se configuran al inicio del script (`RUTA_X`, `RUTA_CARTERA`).
 
 ## Definición de default
 
