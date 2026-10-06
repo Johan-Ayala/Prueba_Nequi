@@ -6,9 +6,10 @@ Modelo que estima, al momento de la solicitud, la probabilidad de que un cliente
 
 | Archivo | Contenido |
 |---|---|
-| `modelo_pd.py` | Pipeline principal: unión X + Y, revisión de variables, modelo, KS/AUC y PSI |
-| `construccion_default.py` | Análisis exploratorio de la cartera para definir la Y |
-| `informe_tecnico.md` | Detalle completo del análisis y los resultados |
+| `revision variables.py` | Pipeline principal: unión variables y predictora, revisión de variables, modelo, KS/AUC y PSI |
+| `generacion_y.py` | Análisis exploratorio de la cartera para definir la Y |
+| `Preguntas.docx` | Detalle completo del análisis y los resultados |
+| `Resumen ejecutivo.docx` | informe para los stakeholders |
 
 ## Cómo ejecutar
 
