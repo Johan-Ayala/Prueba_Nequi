@@ -9,7 +9,8 @@ Modelo que estima, al momento de la solicitud, la probabilidad de que un cliente
 | `revision variables.py` | Pipeline principal: unión variables y predictora, revisión de variables, modelo, KS/AUC y PSI |
 | `generacion_y.py` | Análisis exploratorio de la cartera para definir la Y |
 | `Preguntas.docx` | Detalle completo del análisis y los resultados |
-| `Resumen ejecutivo.docx` | informe para los stakeholders |
+| `Resumen ejecutivo.docx` | Informe para los stakeholders |
+| `respuesta.csv` | Variable Y guardada y consolidada |
 
 ## Cómo ejecutar
 
